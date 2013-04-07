@@ -16,6 +16,9 @@ A definitive list of tools for generating static websites.
 * [PieCrust](http://bolt80.com/piecrust/)
 * [Sculpin](http://sculpin.io/)
 * [Second Crack](https://github.com/marcoarment/secondcrack)
+* [Tempo](https://github.com/catnapgames/Tempo)
+* [ZeroCMS](https://github.com/ukautz/zerocms)
+* [Pico](http://pico.dev7studios.com/)
 
 ## Ruby
 
@@ -120,6 +123,7 @@ A definitive list of tools for generating static websites.
 * [Sphinx](http://sphinx-doc.org/)
 * [Wok](http://wok.mythmon.com/)
 * [StrangeCase](https://github.com/colinta/StrangeCase)
+* [Igor](https://github.com/aconbere/igor)
 
 ## Common Lisp
 
@@ -144,6 +148,10 @@ A definitive list of tools for generating static websites.
 ## C Sharp
 
 * [Graze](https://github.com/mikoskinen/graze)
+
+## C ++
+
+* [Leo](http://leohtml.sourceforge.net/)
 
 ## Haskell
 
@@ -180,3 +188,4 @@ A definitive list of tools for generating static websites.
 * [KISSr](http://www.kissr.com/)
 * [Chili](http://chilipy.com/)
 * [Drapache](https://github.com/louissobel/Drapache)
+* [Calepin](http://calepin.co/)
