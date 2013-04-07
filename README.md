@@ -127,6 +127,20 @@ A definitive list of tools for generating static websites.
 * [Wok](http://wok.mythmon.com/)
 * [StrangeCase](https://github.com/colinta/StrangeCase)
 * [Igor](https://github.com/aconbere/igor)
+* [Elyse](https://github.com/FSX/elyse)
+* [growl](https://github.com/xfire/growl/)
+* [handcrank](https://pypi.python.org/pypi/handcrank)
+* [Nib](https://github.com/jreese/nib)
+* [Webber](http://gitorious.org/webber)
+* [Lightning](https://github.com/borismus/lightning)
+* [Volt](https://github.com/bow/volt/)
+* [Glynn](https://github.com/teiko/glynn)
+* [Frozen-Flask](http://pythonhosted.org/Frozen-Flask/)
+* [PyBlosxom](http://pyblosxom.github.io/)
+* [Floyd](https://github.com/nikcub/floyd)
+* [Cipherpress](https://github.com/lejonet/Cipherpress)
+* [Engineer](https://github.com/tylerbutler/engineer)
+* [Firedrop2](http://www.voidspace.org.uk/python/firedrop2/)
 
 ## Common Lisp
 
