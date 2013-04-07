@@ -155,6 +155,9 @@ A definitive list of tools for generating static websites.
 
 * [fugitive](https://gitorious.org/fugitive)
 * [Vee](http://www.0x743.com/vee/)
+* [simple-static](https://github.com/wlangstroth/simple-static)
+* [sw](http://nibble.develsec.org/projects/sw.html)
+* [werc](http://werc.cat-v.org/)
 
 ## Go
 
