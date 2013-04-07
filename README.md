@@ -73,6 +73,7 @@ A definitive list of tools for generating static websites.
 * [jen](https://github.com/rfunduk/jen)
 * [Gabby](https://github.com/alexmingoia/gabby)
 * [node-jekyll](https://github.com/wangbus/node-jekyll)
+* [Wanna](https://github.com/shaoshuai0102/wanna)
 
 ## Python
 
