@@ -128,7 +128,7 @@ A definitive list of tools for generating static websites.
 * [Hastie](https://github.com/mkaz/hastie)
 * [jkl](https://github.com/drone/jkl)
 
-## C#
+## C Sharp
 
 * [Graze](https://github.com/mikoskinen/graze)
 
