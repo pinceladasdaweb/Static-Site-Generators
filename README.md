@@ -57,6 +57,10 @@ A definitive list of tools for generating static websites.
 * [zenweb](http://www.zenspider.com/projects/zenweb.html)
 * [RubyFrontier](http://www.apeth.com/RubyFrontierDocs/default.html)
 * [Rassmalog](http://snk.tuxfamily.org/lib/rassmalog/doc/guide.html)
+* [gollum-site](https://github.com/dreverri/gollum-site)
+* [Shelob](https://github.com/rubyworks/shelob)
+* [High Voltage](https://github.com/thoughtbot/high_voltage)
+* [Brochure](https://github.com/sstephenson/brochure)
 
 ## Node
 
