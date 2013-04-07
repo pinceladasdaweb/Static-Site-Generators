@@ -77,6 +77,15 @@ A definitive list of tools for generating static websites.
 * [Statix](https://github.com/ff0000/statix)
 * [Blode](https://github.com/stackoverflow/blode)
 * [Apto](https://github.com/modparadigm/apto)
+* [Enfield](https://github.com/fortes/enfield)
+* [Kel](https://github.com/koostudios/kel)
+* [Jott](https://github.com/jonsherrard/jott)
+* [markx](https://github.com/jgallen23/markx)
+* [pagen](https://github.com/jawerty/pagen)
+* [bread](https://github.com/pvorb/node-bread)
+* [node-blog](https://github.com/creationix/node-blog)
+* [Pop](https://github.com/alexyoung/pop)
+* [Poet](http://jsantell.github.io/poet/)
 
 ## Python
 
