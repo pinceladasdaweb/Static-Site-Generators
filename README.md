@@ -103,6 +103,7 @@ A definitive list of tools for generating static websites.
 ## Common Lisp
 
 * [coleslaw](http://www.cliki.net/coleslaw)
+* [regenerate](https://gist.github.com/TeMPOraL/4190622)
 
 ## Java
 
