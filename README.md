@@ -154,6 +154,7 @@ A definitive list of tools for generating static websites.
 ## Dropbox
 
 * [Scriptogr.am](http://scriptogr.am/)
+* [Telegram](https://telegr.am/)
 * [Site44](http://www.site44.com/)
 * [Pancake.io](https://www.pancake.io/)
 * [DropPages](http://droppages.com/)
