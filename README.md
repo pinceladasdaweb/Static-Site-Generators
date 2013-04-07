@@ -87,6 +87,7 @@ A definitive list of tools for generating static websites.
 * [Pyll](https://github.com/arthurk/pyll)
 * [Pelican](https://github.com/getpelican/pelican/)
 * [PILCROW](http://inky.github.io/pilcrow/)
+* [Fragments](http://glyphobet.github.io/fragments/)
 * [Blatter](https://bitbucket.org/jek/blatter/)
 * [Poole](https://bitbucket.org/obensonne/poole)
 * [Blogofile](http://www.blogofile.com/)
