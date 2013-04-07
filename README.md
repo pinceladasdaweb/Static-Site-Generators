@@ -74,6 +74,9 @@ A definitive list of tools for generating static websites.
 * [Gabby](https://github.com/alexmingoia/gabby)
 * [node-jekyll](https://github.com/wangbus/node-jekyll)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
+* [Statix](https://github.com/ff0000/statix)
+* [Blode](https://github.com/stackoverflow/blode)
+* [Apto](https://github.com/modparadigm/apto)
 
 ## Python
 
