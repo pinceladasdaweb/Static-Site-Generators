@@ -72,6 +72,7 @@ A definitive list of tools for generating static websites.
 * [Codex](https://github.com/logicalparadox/codex)
 * [jen](https://github.com/rfunduk/jen)
 * [Gabby](https://github.com/alexmingoia/gabby)
+* [node-jekyll](https://github.com/wangbus/node-jekyll)
 
 ## Python
 
