@@ -71,6 +71,7 @@ A definitive list of tools for generating static websites.
 * [Nog](https://github.com/c9/nog)
 * [Codex](https://github.com/logicalparadox/codex)
 * [jen](https://github.com/rfunduk/jen)
+* [Gabby](https://github.com/alexmingoia/gabby)
 
 ## Python
 
