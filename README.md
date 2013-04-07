@@ -98,6 +98,7 @@ A definitive list of tools for generating static websites.
 * [Jinja](http://jinja.pocoo.org/)
 * [Mako](http://www.makotemplates.org/)
 * [Sphinx](http://sphinx-doc.org/)
+* [Wok](http://wok.mythmon.com/)
 
 ## Common Lisp
 
