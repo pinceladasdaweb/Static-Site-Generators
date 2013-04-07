@@ -89,6 +89,9 @@ A definitive list of tools for generating static websites.
 * [node-blog](https://github.com/creationix/node-blog)
 * [Pop](https://github.com/alexyoung/pop)
 * [Poet](http://jsantell.github.io/poet/)
+* [Derby](http://derbyjs.com/)
+* [Heckle](http://macwright.org/heckle/)
+* [Brunch](http://brunch.io/)
 
 ## Python
 
