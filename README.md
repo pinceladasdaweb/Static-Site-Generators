@@ -70,6 +70,7 @@ A definitive list of tools for generating static websites.
 * [Wheat](https://github.com/creationix/wheat)
 * [Nog](https://github.com/c9/nog)
 * [Codex](https://github.com/logicalparadox/codex)
+* [jen](https://github.com/rfunduk/jen)
 
 ## Python
 
