@@ -69,6 +69,7 @@ A definitive list of tools for generating static websites.
 * [Scotch](https://github.com/techwraith/scotch)
 * [Wheat](https://github.com/creationix/wheat)
 * [Nog](https://github.com/c9/nog)
+* [Codex](https://github.com/logicalparadox/codex)
 
 ## Python
 
