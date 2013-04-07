@@ -89,6 +89,7 @@ A definitive list of tools for generating static websites.
 * [PILCROW](http://inky.github.io/pilcrow/)
 * [Fragments](http://glyphobet.github.io/fragments/)
 * [Syte](https://github.com/rigoneri/syte)
+* [drupan](https://github.com/fallenhitokiri/drupan)
 * [Blatter](https://bitbucket.org/jek/blatter/)
 * [Poole](https://bitbucket.org/obensonne/poole)
 * [Blogofile](http://www.blogofile.com/)
