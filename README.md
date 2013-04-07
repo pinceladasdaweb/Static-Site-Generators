@@ -110,6 +110,7 @@ A definitive list of tools for generating static websites.
 * [Mako](http://www.makotemplates.org/)
 * [Sphinx](http://sphinx-doc.org/)
 * [Wok](http://wok.mythmon.com/)
+* [StrangeCase](https://github.com/colinta/StrangeCase)
 
 ## Common Lisp
 
