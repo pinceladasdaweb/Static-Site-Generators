@@ -7,6 +7,7 @@ A definitive list of tools for generating static websites.
 
 * [Hammer](http://hammerformac.com/)
 * [Ruhoh](http://ruhoh.com/)
+* [Mixture](http://mixture.io/)
 
 ## PHP
 
