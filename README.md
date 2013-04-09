@@ -96,6 +96,8 @@ A definitive list of tools for generating static websites.
 * [Derby](http://derbyjs.com/)
 * [Heckle](http://macwright.org/heckle/)
 * [Brunch](http://brunch.io/)
+* [Yeoman](http://yeoman.io/)
+* [Hoodie](http://hood.ie/)
 
 ## Python
 
