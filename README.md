@@ -62,6 +62,7 @@ A definitive list of tools for generating static websites.
 * [Shelob](https://github.com/rubyworks/shelob)
 * [High Voltage](https://github.com/thoughtbot/high_voltage)
 * [Brochure](https://github.com/sstephenson/brochure)
+* [Gravity](https://github.com/owainlewis/gravity)
 
 ## Node
 
