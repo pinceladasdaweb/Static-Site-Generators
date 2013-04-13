@@ -100,6 +100,7 @@ A definitive list of tools for generating static websites.
 * [Brunch](http://brunch.io/)
 * [Yeoman](http://yeoman.io/)
 * [Hoodie](http://hood.ie/)
+* [volo](http://volojs.org/)
 
 ## Python
 
