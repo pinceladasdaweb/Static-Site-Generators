@@ -8,6 +8,7 @@ A definitive list of tools for generating static websites.
 * [Hammer](http://hammerformac.com/)
 * [Ruhoh](http://ruhoh.com/)
 * [Mixture](http://mixture.io/)
+* [LiveReload](http://livereload.com/)
 
 ## PHP
 
@@ -101,6 +102,13 @@ A definitive list of tools for generating static websites.
 * [Yeoman](http://yeoman.io/)
 * [Hoodie](http://hood.ie/)
 * [volo](http://volojs.org/)
+* [Mimosa](http://mimosajs.com/)
+* [Lumbar](https://github.com/walmartlabs/lumbar)
+* [Lineman](https://github.com/testdouble/lineman)
+* [Grunt](http://gruntjs.com/)
+* [GruntStart](http://tsvensen.github.io/GruntStart/)
+* [Modjs](http://modulejs.github.io/modjs/)
+* [Automaton](http://indigounited.com/automaton/)
 
 ## Python
 
