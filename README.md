@@ -109,6 +109,7 @@ A definitive list of tools for generating static websites.
 * [GruntStart](http://tsvensen.github.io/GruntStart/)
 * [Modjs](http://modulejs.github.io/modjs/)
 * [Automaton](http://indigounited.com/automaton/)
+* [Woods](https://github.com/studiomoniker/woods)
 
 ## Python
 
