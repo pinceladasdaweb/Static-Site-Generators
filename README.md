@@ -163,6 +163,7 @@ A definitive list of tools for generating static websites.
 * [Firedrop2](http://www.voidspace.org.uk/python/firedrop2/)
 * [rstblog](https://github.com/mitsuhiko/rstblog)
 * [Obraz](http://obraz.pirx.ru/)
+* [django-medusa](https://github.com/mtigas/django-medusa/)
 
 ## Common Lisp
 
