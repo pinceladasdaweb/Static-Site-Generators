@@ -161,6 +161,7 @@ A definitive list of tools for generating static websites.
 * [Engineer](https://github.com/tylerbutler/engineer)
 * [Firedrop2](http://www.voidspace.org.uk/python/firedrop2/)
 * [rstblog](https://github.com/mitsuhiko/rstblog)
+* [Obraz](http://obraz.pirx.ru/)
 
 ## Common Lisp
 
