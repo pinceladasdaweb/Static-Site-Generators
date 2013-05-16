@@ -160,6 +160,7 @@ A definitive list of tools for generating static websites.
 * [Cipherpress](https://github.com/lejonet/Cipherpress)
 * [Engineer](https://github.com/tylerbutler/engineer)
 * [Firedrop2](http://www.voidspace.org.uk/python/firedrop2/)
+* [rstblog](https://github.com/mitsuhiko/rstblog)
 
 ## Common Lisp
 
