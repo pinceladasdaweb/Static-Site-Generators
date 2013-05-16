@@ -222,6 +222,7 @@ A definitive list of tools for generating static websites.
 ## Clojure
 
 * [Static](http://nakkaya.com/static.html)
+* [misaki](https://github.com/liquidz/misaki)
 
 ## Dropbox
 
