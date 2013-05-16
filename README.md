@@ -168,6 +168,7 @@ A definitive list of tools for generating static websites.
 ## Java
 
 * [FMPP](http://fmpp.sourceforge.net/)
+* [JBake](http://jbake.org/)
 
 ## Shell
 
