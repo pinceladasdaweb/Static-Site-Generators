@@ -10,6 +10,7 @@ A definitive list of tools for generating static websites.
 * [Mixture](http://mixture.io/)
 * [LiveReload](http://livereload.com/)
 * [Site builder console](http://sitebuilder.codeplex.com/)
+* [StaticMate](https://staticmate.com/)
 
 ## PHP
 
