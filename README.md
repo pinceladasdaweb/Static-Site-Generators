@@ -23,6 +23,22 @@ A definitive list of tools for generating static websites.
 * [Tempo](https://github.com/catnapgames/Tempo)
 * [ZeroCMS](https://github.com/ukautz/zerocms)
 * [Pico](http://pico.dev7studios.com/)
+* [secondcrack](https://github.com/marcoarment/secondcrack)
+* [Phase](https://github.com/AD7six/phase)
+* [Site-builder](https://github.com/inanimatt/site-builder)
+* [Snowshoe](https://github.com/edvanbeinum/snowshoe)
+* [Miblo](https://github.com/rafalp/Miblo)
+* [Gen](https://github.com/trq/Gen)
+* [Meinhof](https://github.com/miguelibero/meinhof)
+* [Hydrastic](https://github.com/bpizzi/Hydrastic)
+* [cub](https://github.com/patcoll/cub)
+* [Wadoo](https://github.com/alpacaaa/wadoo)
+* [SG](https://github.com/maxailloud/SG)
+* [Cavy](https://github.com/alxlit/cavy)
+* [Drop-a-Site](https://github.com/herschel666/Drop-a-Site)
+* [Purepress](https://github.com/megakote/purepress)
+* [SiteMaker](https://github.com/yqtaku/site-maker)
+* [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill)
 
 ## Ruby
 
@@ -66,6 +82,7 @@ A definitive list of tools for generating static websites.
 * [High Voltage](https://github.com/thoughtbot/high_voltage)
 * [Brochure](https://github.com/sstephenson/brochure)
 * [Gravity](https://github.com/owainlewis/gravity)
+* [Laze](http://avdgaag.github.io/laze/)
 
 ## Node
 
@@ -112,6 +129,7 @@ A definitive list of tools for generating static websites.
 * [Modjs](http://modulejs.github.io/modjs/)
 * [Automaton](http://indigounited.com/automaton/)
 * [Woods](https://github.com/studiomoniker/woods)
+* [Kerouac](https://github.com/jaredhanson/kerouac)
 
 ## Python
 
@@ -164,6 +182,7 @@ A definitive list of tools for generating static websites.
 * [rstblog](https://github.com/mitsuhiko/rstblog)
 * [Obraz](http://obraz.pirx.ru/)
 * [django-medusa](https://github.com/mtigas/django-medusa/)
+* [fjord](http://dkuntz2.github.io/fjord/)
 
 ## Common Lisp
 
