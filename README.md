@@ -211,6 +211,7 @@ A definitive list of tools for generating static websites.
 ## C and Perl
 
 * [Website Meta Language](http://www.thewml.org/)
+* [Templer](https://github.com/skx/templer)
 
 ## Clojure
 
