@@ -183,6 +183,7 @@ A definitive list of tools for generating static websites.
 * [Obraz](http://obraz.pirx.ru/)
 * [django-medusa](https://github.com/mtigas/django-medusa/)
 * [fjord](http://dkuntz2.github.io/fjord/)
+* [Serious Chicken](http://rtorr.github.io/serious-chicken/)
 
 ## Common Lisp
 
@@ -242,6 +243,9 @@ A definitive list of tools for generating static websites.
 
 * [Static](http://nakkaya.com/static.html)
 * [misaki](https://github.com/liquidz/misaki)
+
+## Scala
+* [monkeyman](https://github.com/wspringer/monkeyman)
 
 ## Dropbox
 
