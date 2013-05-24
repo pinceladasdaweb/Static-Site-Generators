@@ -238,6 +238,7 @@ A definitive list of tools for generating static websites.
 
 * [Website Meta Language](http://www.thewml.org/)
 * [Templer](https://github.com/skx/templer)
+* [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
 
 ## Clojure
 
