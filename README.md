@@ -14,7 +14,6 @@ A definitive list of tools for generating static websites.
 
 ## PHP
 
-* [Kirby](http://getkirby.com/)
 * [Stacey](http://www.staceyapp.com/)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
