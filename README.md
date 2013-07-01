@@ -11,17 +11,15 @@ A definitive list of tools for generating static websites.
 * [LiveReload](http://livereload.com/)
 * [Site builder console](http://sitebuilder.codeplex.com/)
 * [StaticMate](https://staticmate.com/)
+* [vimwiki](https://github.com/vim-scripts/vimwiki)
 
 ## PHP
 
-* [Stacey](http://www.staceyapp.com/)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
 * [Sculpin](http://sculpin.io/)
 * [Second Crack](https://github.com/marcoarment/secondcrack)
 * [Tempo](https://github.com/catnapgames/Tempo)
-* [ZeroCMS](https://github.com/ukautz/zerocms)
-* [Pico](http://pico.dev7studios.com/)
 * [secondcrack](https://github.com/marcoarment/secondcrack)
 * [Phase](https://github.com/AD7six/phase)
 * [Site-builder](https://github.com/inanimatt/site-builder)
