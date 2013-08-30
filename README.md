@@ -127,6 +127,7 @@ A definitive list of tools for generating static websites.
 * [Automaton](http://indigounited.com/automaton/)
 * [Woods](https://github.com/studiomoniker/woods)
 * [Kerouac](https://github.com/jaredhanson/kerouac)
+* [noflo-jekyll](https://github.com/the-grid/noflo-jekyll)
 
 ## Python
 
