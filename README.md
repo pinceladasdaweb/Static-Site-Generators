@@ -36,6 +36,7 @@ A definitive list of tools for generating static websites.
 * [Purepress](https://github.com/megakote/purepress)
 * [SiteMaker](https://github.com/yqtaku/site-maker)
 * [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill)
+* [Nibbleblog](http://nibbleblog.com/)
 
 ## Ruby
 
@@ -241,6 +242,7 @@ A definitive list of tools for generating static websites.
 * [Website Meta Language](http://www.thewml.org/)
 * [Templer](https://github.com/skx/templer)
 * [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
+* [BlazeBlogger](http://blaze.blackened.cz/)
 
 ## Clojure
 
