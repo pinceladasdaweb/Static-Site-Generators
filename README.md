@@ -182,6 +182,7 @@ A definitive list of tools for generating static websites.
 * [django-medusa](https://github.com/mtigas/django-medusa/)
 * [fjord](http://dkuntz2.github.io/fjord/)
 * [Serious Chicken](http://rtorr.github.io/serious-chicken/)
+* [lilac](https://lilac.readthedocs.org/en/latest/index.html)
 
 ## Common Lisp
 
@@ -206,6 +207,7 @@ A definitive list of tools for generating static websites.
 * [gostatic](https://github.com/piranha/gostatic)
 * [Hastie](https://github.com/mkaz/hastie)
 * [jkl](https://github.com/drone/jkl)
+* [Hugo](http://hugo.spf13.com/)
 
 ## C Sharp
 
@@ -223,6 +225,8 @@ A definitive list of tools for generating static websites.
 ## Bash
 
 * [Pagegen](http://pagegen.phnd.net/)
+* [NanoBlogger](http://nanoblogger.sourceforge.net/)
+* [bashblog](https://github.com/carlesfe/bashblog)
 
 ## Groovy
 
