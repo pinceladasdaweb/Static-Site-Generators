@@ -37,6 +37,7 @@ A definitive list of tools for generating static websites.
 * [SiteMaker](https://github.com/yqtaku/site-maker)
 * [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill)
 * [Nibbleblog](http://nibbleblog.com/)
+* [Statamic](http://www.statamic.com/)
 
 ## Ruby
 
