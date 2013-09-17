@@ -264,3 +264,4 @@ A definitive list of tools for generating static websites.
 * [Chili](http://chilipy.com/)
 * [Drapache](https://github.com/louissobel/Drapache)
 * [Calepin](http://calepin.co/)
+* [Brace](http://brace.io/)
