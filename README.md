@@ -85,6 +85,7 @@ A definitive list of tools for generating static websites.
 
 ## Node
 
+* [Assemble](http://assemble.io)
 * [Harp](http://harpjs.com)
 * [yassg](https://npmjs.org/package/yassg)
 * [Quill](https://npmjs.org/package/quill)
