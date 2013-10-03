@@ -85,6 +85,7 @@ A definitive list of tools for generating static websites.
 
 ## Node
 
+* [Cabin](http://www.cabinjs.com/)
 * [Assemble](http://assemble.io)
 * [Harp](http://harpjs.com)
 * [yassg](https://npmjs.org/package/yassg)
