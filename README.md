@@ -3,6 +3,9 @@ Static Site Generators
 
 A definitive list of tools for generating static websites.
 
+[This listing has now been super-seeded by staticsitegenerators.net](http://staticsitegenerators.net/)
+
+
 ## Language Agnostic
 
 * [Hammer](http://hammerformac.com/)
