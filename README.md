@@ -6,7 +6,6 @@ A definitive list of tools for generating static websites.
 ## Language Agnostic
 
 * [Hammer](http://hammerformac.com/)
-* [Ruhoh](http://ruhoh.com/)
 * [Mixture](http://mixture.io/)
 * [LiveReload](http://livereload.com/)
 * [Site builder console](http://sitebuilder.codeplex.com/)
@@ -82,6 +81,7 @@ A definitive list of tools for generating static websites.
 * [Brochure](https://github.com/sstephenson/brochure)
 * [Gravity](https://github.com/owainlewis/gravity)
 * [Laze](http://avdgaag.github.io/laze/)
+* [Ruhoh](http://ruhoh.com/)
 
 ## Node
 
