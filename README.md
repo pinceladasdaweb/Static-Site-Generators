@@ -3,6 +3,28 @@ Static Site Generators
 
 A definitive list of tools for generating static websites.
 
+Table of Contents
+-----------------
+
+* [Language Agnostic](#language-agnostic)
+* [Clojure](#clojure)
+* [Common Lisp](#common-lisp)
+* [C and Perl](#c-and-perl)
+* [C++](#c)
+* [C#](#c-sharp)
+* [Dropbox](#dropbox)
+* [Go](#go)
+* [Groovy](#groovy)
+* [Haskell](#haskell)
+* [Java](#java)
+* [Node.js](#node-js)
+* [OCaml](#ocaml)
+* [PHP](#php)
+* [Python](#python)
+* [Ruby](#ruby)
+* [Scala](#scala)
+* [Shell](#shell)
+
 ## Language Agnostic
 
 * [Hammer](http://hammerformac.com/)
@@ -83,7 +105,7 @@ A definitive list of tools for generating static websites.
 * [Laze](http://avdgaag.github.io/laze/)
 * [Ruhoh](http://ruhoh.com/)
 
-## Node
+## Node.js
 
 * [Cabin](http://www.cabinjs.com/)
 * [Assemble](http://assemble.io)
@@ -218,7 +240,7 @@ A definitive list of tools for generating static websites.
 
 * [Graze](https://github.com/mikoskinen/graze)
 
-## C ++
+## C++
 
 * [Leo](http://leohtml.sourceforge.net/)
 
@@ -237,7 +259,7 @@ A definitive list of tools for generating static websites.
 
 * [Rizzo](https://github.com/fifthposition/rizzo/)
 
-## Ocaml
+## OCaml
 
 * [Ultra Simple Site Maker](http://loup-vaillant.fr/projects/ussm/)
 
