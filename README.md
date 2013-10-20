@@ -17,7 +17,7 @@ Table of Contents
 * [Groovy](#groovy)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Node.js](#node-js)
+* [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
