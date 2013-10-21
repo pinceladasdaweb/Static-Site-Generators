@@ -36,16 +36,6 @@ Table of Contents
 
 ## PHP
 
-* [Cavy](https://github.com/alxlit/cavy)
-* [cub](https://github.com/patcoll/cub)
-* [Drop-a-Site](https://github.com/herschel666/Drop-a-Site)
-* [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill)
-* [Gen](https://github.com/trq/Gen)
-* [Hydrastic](https://github.com/bpizzi/Hydrastic)
-* [Meinhof](https://github.com/miguelibero/meinhof)
-* [Miblo](https://github.com/rafalp/Miblo)
-* [Nibbleblog](http://nibbleblog.com/)
-* [Phase](https://github.com/AD7six/phase)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
 * [Purepress](https://github.com/megakote/purepress)
@@ -56,6 +46,7 @@ Table of Contents
 * [Site-builder](https://github.com/inanimatt/site-builder)
 * [SiteMaker](https://github.com/yqtaku/site-maker)
 * [Snowshoe](https://github.com/edvanbeinum/snowshoe)
+* [Stacey](https://github.com/kolber/stacey)
 * [Statamic](http://www.statamic.com/)
 * [Tempo](https://github.com/catnapgames/Tempo)
 * [Wadoo](https://github.com/alpacaaa/wadoo)
