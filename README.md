@@ -111,6 +111,7 @@ Table of Contents
 * [DocPad](https://github.com/bevry/docpad)
 * [Enfield](https://github.com/fortes/enfield)
 * [Gabby](https://github.com/alexmingoia/gabby)
+* [Genesis](http://forge.synthmedia.co.uk/genesis/)
 * [Grunt](http://gruntjs.com/)
 * [GruntStart](http://tsvensen.github.io/GruntStart/)
 * [Harp](http://harpjs.com)
