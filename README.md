@@ -89,6 +89,7 @@ Table of Contents
 * [StaticMatic 2](https://github.com/mindeavor/staticmatic2)
 * [StaticMatic](http://rubyforge.org/projects/staticmatic/)
 * [StaticWeb](http://staticweb.rubyforge.org/)
+* [Striker](https://github.com/swaroopsm/striker)
 * [toto](https://github.com/cloudhead/toto)
 * [Webby](http://webby.rubyforge.org/)
 * [webgen](http://webgen.rubyforge.org/)
