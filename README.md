@@ -272,6 +272,7 @@ Table of Contents
 
 ## Scala
 * [monkeyman](https://github.com/wspringer/monkeyman)
+* [Scalate](https://github.com/scalate/scalate)
 
 ## Dropbox
 
