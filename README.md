@@ -120,6 +120,7 @@ Table of Contents
 * [Hexo](https://github.com/tommy351/hexo)
 * [Hoodie](http://hood.ie/)
 * [jen](https://github.com/rfunduk/jen)
+* [Jekyde](http://zohooo.github.io/jekyde/)
 * [Jott](https://github.com/jonsherrard/jott)
 * [Kel](https://github.com/koostudios/kel)
 * [Kerouac](https://github.com/jaredhanson/kerouac)
