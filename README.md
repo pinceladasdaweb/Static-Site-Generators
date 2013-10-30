@@ -128,6 +128,7 @@ Table of Contents
 * [markx](https://github.com/jgallen23/markx)
 * [Mimosa](http://mimosajs.com/)
 * [Modjs](http://modulejs.github.io/modjs/)
+* [Nirman](https://github.com/anupshinde/nirman)
 * [node-blog](https://github.com/creationix/node-blog)
 * [node-jekyll](https://github.com/wangbus/node-jekyll)
 * [noflo-jekyll](https://github.com/the-grid/noflo-jekyll)
