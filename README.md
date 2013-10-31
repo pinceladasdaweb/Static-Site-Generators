@@ -103,6 +103,7 @@ Table of Contents
 * [Apto](https://github.com/modparadigm/apto)
 * [Assemble](http://assemble.io)
 * [Automaton](http://indigounited.com/automaton/)
+* [BAM](https://npmjs.org/package/bam)
 * [blacksmith](https://github.com/flatiron/blacksmith/)
 * [Blode](https://github.com/stackoverflow/blode)
 * [bread](https://github.com/pvorb/node-bread)
