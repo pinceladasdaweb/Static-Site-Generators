@@ -36,6 +36,7 @@ Table of Contents
 
 ## PHP
 
+* [Animal](https://github.com/billpatrianakos/animal-f)
 * [Gumdrop](http://gumdropapp.com/)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
