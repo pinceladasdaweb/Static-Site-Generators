@@ -111,6 +111,7 @@ Table of Contents
 * [Brunch](http://brunch.io/)
 * [Cabin](http://www.cabinjs.com/)
 * [Codex](https://github.com/logicalparadox/codex)
+* [Conf-Boilerplate] (https://github.com/braziljs/conf-boilerplate)
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
 * [Enfield](https://github.com/fortes/enfield)
