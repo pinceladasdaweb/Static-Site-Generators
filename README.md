@@ -143,6 +143,7 @@ Table of Contents
 * [Petrify](https://github.com/caolan/petrify)
 * [Poet](http://jsantell.github.io/poet/)
 * [Pop](https://github.com/alexyoung/pop)
+* [Propeller](https://github.com/thegreatsunra/propeller)
 * [Punch](https://github.com/laktek/punch)
 * [Qabex](https://github.com/shanewholloway/node-qssg)
 * [Quill](https://npmjs.org/package/quill)
