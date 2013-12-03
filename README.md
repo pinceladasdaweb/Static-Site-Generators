@@ -187,6 +187,7 @@ Table of Contents
 * [Igor](https://github.com/aconbere/igor)
 * [Jinja](http://jinja.pocoo.org/)
 * [jinjet](https://github.com/jokull/jinjet)
+* [Letterpress](https://github.com/an0/Letterpress)
 * [Lightning](https://github.com/borismus/lightning)
 * [lilac](https://lilac.readthedocs.org/en/latest/index.html)
 * [Mako](http://www.makotemplates.org/)
@@ -214,7 +215,6 @@ Table of Contents
 * [Voldemort](https://github.com/semk/voldemort)
 * [Volt](https://github.com/bow/volt/)
 * [Webber](http://gitorious.org/webber)
-* [Wok](http://wok.mythmon.com/)
 * [Wok](https://github.com/mythmon/wok)
 
 ## Common Lisp
