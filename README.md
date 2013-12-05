@@ -119,6 +119,7 @@ Table of Contents
 * [Genesis](http://forge.synthmedia.co.uk/genesis/)
 * [Grunt](http://gruntjs.com/)
 * [GruntStart](http://tsvensen.github.io/GruntStart/)
+* [grunt-bear](https://github.com/tvooo/grunt-bear)
 * [Grunt-Carpenter](https://github.com/TxSSC/grunt-carpenter)
 * [grunt-html-builder](https://github.com/aaaristo/grunt-html-builder)
 * [Harp](http://harpjs.com)
