@@ -173,6 +173,7 @@ Table of Contents
 * [Composer](https://github.com/shazow/composer)
 * [cyrax](https://pypi.python.org/pypi/cyrax)
 * [django-medusa](https://github.com/mtigas/django-medusa/)
+* [djangothis](https://github.com/amitu/djangothis/)
 * [drupan](https://github.com/fallenhitokiri/drupan)
 * [Elyse](https://github.com/FSX/elyse)
 * [Engineer](https://github.com/tylerbutler/engineer)
