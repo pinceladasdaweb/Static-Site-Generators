@@ -122,6 +122,7 @@ Table of Contents
 * [grunt-bear](https://github.com/tvooo/grunt-bear)
 * [Grunt-Carpenter](https://github.com/TxSSC/grunt-carpenter)
 * [grunt-html-builder](https://github.com/aaaristo/grunt-html-builder)
+* [grunt-stencil](https://github.com/cambridge-healthcare/grunt-stencil)
 * [Harp](http://harpjs.com)
 * [Heckle](http://macwright.org/heckle/)
 * [Hexo](https://github.com/tommy351/hexo)
