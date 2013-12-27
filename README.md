@@ -244,6 +244,7 @@ Table of Contents
 * [Hastie](https://github.com/mkaz/hastie)
 * [Hugo](http://hugo.spf13.com/)
 * [jkl](https://github.com/drone/jkl)
+* [kkr](https://github.com/dchest/kkr)
 
 ## C Sharp
 
