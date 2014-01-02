@@ -25,6 +25,7 @@ Table of Contents
 * [Scala](#scala)
 * [Shell](#shell)
 * [Scheme](#scheme)
+* [Racket](#racket)
 
 ## Language Agnostic
 
@@ -112,7 +113,7 @@ Table of Contents
 * [Brunch](http://brunch.io/)
 * [Cabin](http://www.cabinjs.com/)
 * [Codex](https://github.com/logicalparadox/codex)
-* [Conf-Boilerplate] (https://github.com/braziljs/conf-boilerplate) (For Conference and Events)
+* [Conf-Boilerplate](https://github.com/braziljs/conf-boilerplate) (For Conference and Events)
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
 * [Enfield](https://github.com/fortes/enfield)
@@ -307,3 +308,6 @@ Table of Contents
 * [Site44](http://www.site44.com/)
 * [Sitebox.io](http://www.sitebox.io/)
 * [Telegram](https://telegr.am/)
+
+## Racket
+* [Frog](https://github.com/greghendershott/frog)
