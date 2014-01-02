@@ -24,6 +24,7 @@ Table of Contents
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Shell](#shell)
+* [Scheme](#scheme)
 
 ## Language Agnostic
 
@@ -288,6 +289,9 @@ Table of Contents
 ## Scala
 * [monkeyman](https://github.com/wspringer/monkeyman)
 * [Scalate](https://github.com/scalate/scalate)
+
+## Scheme
+* [Hyde](http://wiki.call-cc.org/eggref/4/hyde)
 
 ## Dropbox
 
