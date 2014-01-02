@@ -24,6 +24,7 @@ Table of Contents
 * [Ruby](#ruby)
 * [Scala](#scala)
 * [Shell](#shell)
+* [Racket](#racket)
 
 ## Language Agnostic
 
@@ -302,3 +303,6 @@ Table of Contents
 * [Site44](http://www.site44.com/)
 * [Sitebox.io](http://www.sitebox.io/)
 * [Telegram](https://telegr.am/)
+
+## Racket
+* [Frog](https://github.com/greghendershott/frog)
