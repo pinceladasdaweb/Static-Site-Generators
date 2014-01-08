@@ -271,6 +271,7 @@ Table of Contents
 
 ## Groovy
 
+* [Grain](http://sysgears.com/grain/)
 * [Rizzo](https://github.com/fifthposition/rizzo/)
 
 ## OCaml
