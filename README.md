@@ -6,9 +6,10 @@ A definitive list of tools for generating static websites.
 Table of Contents
 -----------------
 
-* [C and Perl](#c-and-perl)
-* [C#](#c-sharp)
+* [Bash](#bash)
 * [C++](#c)
+* [C#](#c-sharp)
+* [C and Perl](#c-and-perl)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
 * [Dropbox](#dropbox)
@@ -21,11 +22,79 @@ Table of Contents
 * [OCaml](#ocaml)
 * [PHP](#php)
 * [Python](#python)
-* [Ruby](#ruby)
 * [Scala](#scala)
-* [Shell](#shell)
 * [Scheme](#scheme)
+* [Shell](#shell)
 * [Racket](#racket)
+* [Ruby](#ruby)
+
+## Bash
+
+* [bashblog](https://github.com/carlesfe/bashblog)
+* [NanoBlogger](http://nanoblogger.sourceforge.net/)
+* [Pagegen](http://pagegen.phnd.net/)
+
+## C++
+
+* [Leo](http://leohtml.sourceforge.net/)
+
+## C Sharp
+
+* [Graze](https://github.com/mikoskinen/graze)
+
+## C and Perl
+
+* [BlazeBlogger](http://blaze.blackened.cz/)
+* [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
+* [Templer](https://github.com/skx/templer)
+* [Website Meta Language](http://www.thewml.org/)
+
+## Clojure
+
+* [misaki](https://github.com/liquidz/misaki)
+* [Static](http://nakkaya.com/static.html)
+
+## Common Lisp
+
+* [coleslaw](http://www.cliki.net/coleslaw)
+* [regenerate](https://gist.github.com/TeMPOraL/4190622)
+
+## Dropbox
+
+* [Brace](http://brace.io/)
+* [Calepin](http://calepin.co/)
+* [Chili](http://chilipy.com/)
+* [Drapache](https://github.com/louissobel/Drapache)
+* [DropPages](http://droppages.com/)
+* [KISSr](http://www.kissr.com/)
+* [Pancake.io](https://www.pancake.io/)
+* [Scriptogr.am](http://scriptogr.am/)
+* [Site44](http://www.site44.com/)
+* [Sitebox.io](http://www.sitebox.io/)
+* [Telegram](https://telegr.am/)
+
+## Go
+
+* [gostatic](https://github.com/piranha/gostatic)
+* [Hastie](https://github.com/mkaz/hastie)
+* [Hugo](http://hugo.spf13.com/)
+* [jkl](https://github.com/drone/jkl)
+* [kkr](https://github.com/dchest/kkr)
+
+## Groovy
+
+* [Grain](http://sysgears.com/grain/)
+* [Rizzo](https://github.com/fifthposition/rizzo/)
+
+## Haskell
+
+* [Hakyll](http://jaspervdj.be/hakyll/)
+* [yst](https://github.com/jgm/yst)
+
+## Java
+
+* [FMPP](http://fmpp.sourceforge.net/)
+* [JBake](http://jbake.org/)
 
 ## Language Agnostic
 
@@ -35,71 +104,6 @@ Table of Contents
 * [Site builder console](http://sitebuilder.codeplex.com/)
 * [StaticMate](https://staticmate.com/)
 * [vimwiki](https://github.com/vim-scripts/vimwiki)
-
-## PHP
-
-* [Animal](https://github.com/billpatrianakos/animal-f)
-* [Gumdrop](http://gumdropapp.com/)
-* [Phrozn](http://www.phrozn.info/en/)
-* [PieCrust](http://bolt80.com/piecrust/)
-* [Purepress](https://github.com/megakote/purepress)
-* [Sculpin](http://sculpin.io/)
-* [Second Crack](https://github.com/marcoarment/secondcrack)
-* [secondcrack](https://github.com/marcoarment/secondcrack)
-* [SG](https://github.com/maxailloud/SG)
-* [Site-builder](https://github.com/inanimatt/site-builder)
-* [SiteMaker](https://github.com/yqtaku/site-maker)
-* [Snowshoe](https://github.com/edvanbeinum/snowshoe)
-* [Stacey](https://github.com/kolber/stacey)
-* [Statamic](http://www.statamic.com/)
-* [Tempo](https://github.com/catnapgames/Tempo)
-* [Wadoo](https://github.com/alpacaaa/wadoo)
-
-## Ruby
-
-* [Ace](https://github.com/botanicus/ace)
-* [Bonsai](http://tinytree.info/)
-* [Brochure](https://github.com/sstephenson/brochure)
-* [deplot](https://github.com/cdn64/deplot)
-* [DynamicMatic](https://github.com/nex3/dynamicmatic)
-* [Fairytale](https://github.com/46Bit/fairytale)
-* [Frank](https://github.com/blahed/frank)
-* [gollum-site](https://github.com/dreverri/gollum-site)
-* [Gravity](https://github.com/owainlewis/gravity)
-* [High Voltage](https://github.com/thoughtbot/high_voltage)
-* [hobix](http://hobix.github.io/hobix/)
-* [Hobix](https://github.com/hobix/hobix/)
-* [Jekyll](https://github.com/mojombo/jekyll)
-* [korma](https://github.com/sandal/korma)
-* [Laze](http://avdgaag.github.io/laze/)
-* [Machined](https://github.com/petebrowne/machined)
-* [Magneto](https://github.com/donmelton/magneto)
-* [Massimo](https://github.com/petebrowne/massimo)
-* [Middleman](http://middlemanapp.com/)
-* [Nanoc](http://nanoc.ws/)
-* [NestaCMS](http://nestacms.com/)
-* [Octopress](http://octopress.org/)
-* [Pith](https://github.com/mdub/pith)
-* [Rakeweb](http://rubyforge.org/projects/rakeweb/)
-* [Rassmalog](http://snk.tuxfamily.org/lib/rassmalog/doc/guide.html)
-* [Rog](http://rog.rubyforge.org/)
-* [rote](http://rote.rubyforge.org/)
-* [RubyFrontier](http://www.apeth.com/RubyFrontierDocs/default.html)
-* [Ruhoh](http://ruhoh.com/)
-* [Serif](https://github.com/aprescott/serif)
-* [Serve](http://get-serve.com/)
-* [Shelob](https://github.com/rubyworks/shelob)
-* [stasis](http://stasis.me/)
-* [StaticMatic 2](https://github.com/mindeavor/staticmatic2)
-* [StaticMatic](http://rubyforge.org/projects/staticmatic/)
-* [StaticWeb](http://staticweb.rubyforge.org/)
-* [Striker](https://github.com/swaroopsm/striker)
-* [toto](https://github.com/cloudhead/toto)
-* [Webby](http://webby.rubyforge.org/)
-* [webgen](http://webgen.rubyforge.org/)
-* [Yurt CMS](http://yurtcms.roberthahn.ca/)
-* [zenweb](http://www.zenspider.com/projects/zenweb.html)
-* [{ :awestruct }](http://awestruct.org/)
 
 ## Node.js
 
@@ -166,6 +170,29 @@ Table of Contents
 * [yassg](https://npmjs.org/package/yassg)
 * [Yeoman](http://yeoman.io/)
 
+## OCaml
+
+* [Ultra Simple Site Maker](http://loup-vaillant.fr/projects/ussm/)
+
+## PHP
+
+* [Animal](https://github.com/billpatrianakos/animal-f)
+* [Gumdrop](http://gumdropapp.com/)
+* [Phrozn](http://www.phrozn.info/en/)
+* [PieCrust](http://bolt80.com/piecrust/)
+* [Purepress](https://github.com/megakote/purepress)
+* [Sculpin](http://sculpin.io/)
+* [Second Crack](https://github.com/marcoarment/secondcrack)
+* [secondcrack](https://github.com/marcoarment/secondcrack)
+* [SG](https://github.com/maxailloud/SG)
+* [Site-builder](https://github.com/inanimatt/site-builder)
+* [SiteMaker](https://github.com/yqtaku/site-maker)
+* [Snowshoe](https://github.com/edvanbeinum/snowshoe)
+* [Stacey](https://github.com/kolber/stacey)
+* [Statamic](http://www.statamic.com/)
+* [Tempo](https://github.com/catnapgames/Tempo)
+* [Wadoo](https://github.com/alpacaaa/wadoo)
+
 ## Python
 
 * [Acrylamid](https://github.com/posativ/acrylamid)
@@ -224,71 +251,54 @@ Table of Contents
 * [Webber](http://gitorious.org/webber)
 * [Wok](https://github.com/mythmon/wok)
 
-## Common Lisp
+## Racket
+* [Frog](https://github.com/greghendershott/frog)
 
-* [coleslaw](http://www.cliki.net/coleslaw)
-* [regenerate](https://gist.github.com/TeMPOraL/4190622)
+## Ruby
 
-## Java
-
-* [FMPP](http://fmpp.sourceforge.net/)
-* [JBake](http://jbake.org/)
-
-## Shell
-
-* [fugitive](https://gitorious.org/fugitive)
-* [simple-static](https://github.com/wlangstroth/simple-static)
-* [sw](http://nibble.develsec.org/projects/sw.html)
-* [Vee](http://www.0x743.com/vee/)
-* [werc](http://werc.cat-v.org/)
-
-## Go
-
-* [gostatic](https://github.com/piranha/gostatic)
-* [Hastie](https://github.com/mkaz/hastie)
-* [Hugo](http://hugo.spf13.com/)
-* [jkl](https://github.com/drone/jkl)
-* [kkr](https://github.com/dchest/kkr)
-
-## C Sharp
-
-* [Graze](https://github.com/mikoskinen/graze)
-
-## C++
-
-* [Leo](http://leohtml.sourceforge.net/)
-
-## Haskell
-
-* [Hakyll](http://jaspervdj.be/hakyll/)
-* [yst](https://github.com/jgm/yst)
-
-## Bash
-
-* [bashblog](https://github.com/carlesfe/bashblog)
-* [NanoBlogger](http://nanoblogger.sourceforge.net/)
-* [Pagegen](http://pagegen.phnd.net/)
-
-## Groovy
-
-* [Grain](http://sysgears.com/grain/)
-* [Rizzo](https://github.com/fifthposition/rizzo/)
-
-## OCaml
-
-* [Ultra Simple Site Maker](http://loup-vaillant.fr/projects/ussm/)
-
-## C and Perl
-
-* [BlazeBlogger](http://blaze.blackened.cz/)
-* [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
-* [Templer](https://github.com/skx/templer)
-* [Website Meta Language](http://www.thewml.org/)
-
-## Clojure
-
-* [misaki](https://github.com/liquidz/misaki)
-* [Static](http://nakkaya.com/static.html)
+* [Ace](https://github.com/botanicus/ace)
+* [Bonsai](http://tinytree.info/)
+* [Brochure](https://github.com/sstephenson/brochure)
+* [deplot](https://github.com/cdn64/deplot)
+* [DynamicMatic](https://github.com/nex3/dynamicmatic)
+* [Fairytale](https://github.com/46Bit/fairytale)
+* [Frank](https://github.com/blahed/frank)
+* [gollum-site](https://github.com/dreverri/gollum-site)
+* [Gravity](https://github.com/owainlewis/gravity)
+* [High Voltage](https://github.com/thoughtbot/high_voltage)
+* [hobix](http://hobix.github.io/hobix/)
+* [Hobix](https://github.com/hobix/hobix/)
+* [Jekyll](https://github.com/mojombo/jekyll)
+* [korma](https://github.com/sandal/korma)
+* [Laze](http://avdgaag.github.io/laze/)
+* [Machined](https://github.com/petebrowne/machined)
+* [Magneto](https://github.com/donmelton/magneto)
+* [Massimo](https://github.com/petebrowne/massimo)
+* [Middleman](http://middlemanapp.com/)
+* [Nanoc](http://nanoc.ws/)
+* [NestaCMS](http://nestacms.com/)
+* [Octopress](http://octopress.org/)
+* [Pith](https://github.com/mdub/pith)
+* [Rakeweb](http://rubyforge.org/projects/rakeweb/)
+* [Rassmalog](http://snk.tuxfamily.org/lib/rassmalog/doc/guide.html)
+* [Rog](http://rog.rubyforge.org/)
+* [rote](http://rote.rubyforge.org/)
+* [RubyFrontier](http://www.apeth.com/RubyFrontierDocs/default.html)
+* [Ruhoh](http://ruhoh.com/)
+* [Serif](https://github.com/aprescott/serif)
+* [Serve](http://get-serve.com/)
+* [Shelob](https://github.com/rubyworks/shelob)
+* [stasis](http://stasis.me/)
+* [StaticMatic 2](https://github.com/mindeavor/staticmatic2)
+* [StaticMatic](http://rubyforge.org/projects/staticmatic/)
+* [StaticWeb](http://staticweb.rubyforge.org/)
+* [Striker](https://github.com/swaroopsm/striker)
+* [toto](https://github.com/cloudhead/toto)
+* [Webby](http://webby.rubyforge.org/)
+* [webgen](http://webgen.rubyforge.org/)
+* [Yurt CMS](http://yurtcms.roberthahn.ca/)
+* [zenweb](http://www.zenspider.com/projects/zenweb.html)
+* [{ :awestruct }](http://awestruct.org/)
 
 ## Scala
 * [monkeyman](https://github.com/wspringer/monkeyman)
@@ -297,19 +307,10 @@ Table of Contents
 ## Scheme
 * [Hyde](http://wiki.call-cc.org/eggref/4/hyde)
 
-## Dropbox
+## Shell
 
-* [Brace](http://brace.io/)
-* [Calepin](http://calepin.co/)
-* [Chili](http://chilipy.com/)
-* [Drapache](https://github.com/louissobel/Drapache)
-* [DropPages](http://droppages.com/)
-* [KISSr](http://www.kissr.com/)
-* [Pancake.io](https://www.pancake.io/)
-* [Scriptogr.am](http://scriptogr.am/)
-* [Site44](http://www.site44.com/)
-* [Sitebox.io](http://www.sitebox.io/)
-* [Telegram](https://telegr.am/)
-
-## Racket
-* [Frog](https://github.com/greghendershott/frog)
+* [fugitive](https://gitorious.org/fugitive)
+* [simple-static](https://github.com/wlangstroth/simple-static)
+* [sw](http://nibble.develsec.org/projects/sw.html)
+* [Vee](http://www.0x743.com/vee/)
+* [werc](http://werc.cat-v.org/)
