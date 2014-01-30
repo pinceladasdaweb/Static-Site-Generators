@@ -183,7 +183,6 @@ Table of Contents
 * [Purepress](https://github.com/megakote/purepress)
 * [Sculpin](http://sculpin.io/)
 * [Second Crack](https://github.com/marcoarment/secondcrack)
-* [secondcrack](https://github.com/marcoarment/secondcrack)
 * [SG](https://github.com/maxailloud/SG)
 * [Site-builder](https://github.com/inanimatt/site-builder)
 * [SiteMaker](https://github.com/yqtaku/site-maker)
