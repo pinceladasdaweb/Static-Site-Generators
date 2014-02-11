@@ -187,6 +187,7 @@ Table of Contents
 * [Site-builder](https://github.com/inanimatt/site-builder)
 * [SiteMaker](https://github.com/yqtaku/site-maker)
 * [Snowshoe](https://github.com/edvanbeinum/snowshoe)
+* [Spress](https://github.com/yosymfony/Spress)
 * [Stacey](https://github.com/kolber/stacey)
 * [Statamic](http://www.statamic.com/)
 * [Tempo](https://github.com/catnapgames/Tempo)
