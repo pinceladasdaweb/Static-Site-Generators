@@ -144,6 +144,7 @@ Table of Contents
 * [Lineman](https://github.com/testdouble/lineman)
 * [Lumbar](https://github.com/walmartlabs/lumbar)
 * [markx](https://github.com/jgallen23/markx)
+* [Metalsmith](http://www.metalsmith.io/)
 * [Mimosa](http://mimosajs.com/)
 * [Modjs](http://modulejs.github.io/modjs/)
 * [Nirman](https://github.com/anupshinde/nirman)
