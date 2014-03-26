@@ -18,6 +18,7 @@ Table of Contents
 * [Haskell](#haskell)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+* [Nimrod](#nimrod)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [PHP](#php)
@@ -106,6 +107,10 @@ Table of Contents
 * [Site builder console](http://sitebuilder.codeplex.com/)
 * [StaticMate](https://staticmate.com/)
 * [vimwiki](https://github.com/vim-scripts/vimwiki)
+
+## Nimrod
+
+* [ipsum genera](https://github.com/dom96/ipsumgenera)
 
 ## Node.js
 
