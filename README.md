@@ -147,6 +147,7 @@ Table of Contents
 * [Kel](https://github.com/koostudios/kel)
 * [Kerouac](https://github.com/jaredhanson/kerouac)
 * [Lineman](https://github.com/testdouble/lineman)
+* [Lingon](https://github.com/jpettersson/lingon)
 * [Lumbar](https://github.com/walmartlabs/lumbar)
 * [markx](https://github.com/jgallen23/markx)
 * [Metalsmith](http://www.metalsmith.io/)
