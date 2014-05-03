@@ -47,6 +47,7 @@ Table of Contents
 
 * [BlazeBlogger](http://blaze.blackened.cz/)
 * [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
+* [Dapper](http://vanilladraft.com/dapper/)
 * [Templer](https://github.com/skx/templer)
 * [Website Meta Language](http://www.thewml.org/)
 
