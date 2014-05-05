@@ -171,6 +171,7 @@ Table of Contents
 * [romulus](https://github.com/felixge/node-romulus)
 * [Rufio](https://github.com/wesleytodd/rufio)
 * [Scotch](https://github.com/techwraith/scotch)
+* [squareboy](https://github.com/harsha-mudi/squareboy)
 * [Statix](https://github.com/ff0000/statix)
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [volo](http://volojs.org/)
