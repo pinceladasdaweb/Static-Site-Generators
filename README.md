@@ -175,6 +175,7 @@ Table of Contents
 * [squareboy](https://github.com/harsha-mudi/squareboy)
 * [Statix](https://github.com/ff0000/statix)
 * [Szyslak](https://github.com/ido50/Szyslak)
+* [Techy](http://krasimir.github.io/techy/)
 * [volo](http://volojs.org/)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
 * [Wheat](https://github.com/creationix/wheat)
