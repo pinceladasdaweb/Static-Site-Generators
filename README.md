@@ -178,6 +178,7 @@ Table of Contents
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [Techy](http://krasimir.github.io/techy/)
 * [volo](http://volojs.org/)
+* [wainwright](https://github.com/wprl/wainwright)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
 * [Wheat](https://github.com/creationix/wheat)
 * [Wintersmith](http://jnordberg.github.io/wintersmith/)
