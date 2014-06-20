@@ -259,6 +259,7 @@ Table of Contents
 * [Socrates](http://honza.ca/socrates/)
 * [Speech Hub](https://github.com/alvesjnr/speechhub)
 * [Sphinx](http://sphinx-doc.org/)
+* [Squirrel](https://github.com/nickpetty/squirrel)
 * [Stadø](http://stadoproject.org/)
 * [staticjinja](https://github.com/Ceasar/staticjinja)
 * [StrangeCase](https://github.com/colinta/StrangeCase)
