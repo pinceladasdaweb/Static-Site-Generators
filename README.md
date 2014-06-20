@@ -67,6 +67,7 @@ Table of Contents
 * [Brace](http://brace.io/)
 * [Calepin](http://calepin.co/)
 * [Chili](http://chilipy.com/)
+* [Cloud Cannon](http://cloudcannon.com/)
 * [Drapache](https://github.com/louissobel/Drapache)
 * [DropPages](http://droppages.com/)
 * [KISSr](http://www.kissr.com/)
