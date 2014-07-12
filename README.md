@@ -47,9 +47,17 @@ Table of Contents
 
 * [BlazeBlogger](http://blaze.blackened.cz/)
 * [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
+* [Bryar](https://metacpan.org/pod/Bryar::Frontend::Static)
 * [Dapper](http://vanilladraft.com/dapper/)
+* [HiD](https://metacpan.org/pod/HiD)
+* [Papery](https://metacpan.org/pod/Papery)
+* [Quietly::Confident](http://search.cpan.org/dist/Quietly-Confident/qc.pod)
+* [StaticVolt](https://metacpan.org/pod/StaticVolt)
+* [Statocles](https://metacpan.org/pod/Statocles)
 * [Templer](https://github.com/skx/templer)
 * [Website Meta Language](http://www.thewml.org/)
+* [XDO](http://www.idocs.com/xdo/)
+* [Zucchini](https://metacpan.org/pod/Zucchini)
 
 ## Clojure
 
