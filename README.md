@@ -332,6 +332,5 @@ Table of Contents
 
 * [fugitive](https://gitorious.org/fugitive)
 * [simple-static](https://github.com/wlangstroth/simple-static)
-* [sw](http://nibble.develsec.org/projects/sw.html)
 * [Vee](http://www.0x743.com/vee/)
 * [werc](http://werc.cat-v.org/)
