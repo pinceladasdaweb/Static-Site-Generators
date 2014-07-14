@@ -175,6 +175,7 @@ Table of Contents
 * [Rufio](https://github.com/wesleytodd/rufio)
 * [Scotch](https://github.com/techwraith/scotch)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
+* [Static Site Starter Kit](https://github.com/kriasoft/static-site-starter)
 * [Statix](https://github.com/ff0000/statix)
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [Techy](http://krasimir.github.io/techy/)
