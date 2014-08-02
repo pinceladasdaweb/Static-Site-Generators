@@ -192,6 +192,7 @@ Table of Contents
 * [wainwright](https://github.com/wprl/wainwright)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
 * [Wheat](https://github.com/creationix/wheat)
+* [Wikismith](http://www.wikismith.com/)
 * [Wintersmith](http://jnordberg.github.io/wintersmith/)
 * [Woods](https://github.com/studiomoniker/woods)
 * [yassg](https://npmjs.org/package/yassg)
