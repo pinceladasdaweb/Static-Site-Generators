@@ -133,6 +133,7 @@ Table of Contents
 * [blacksmith](https://github.com/flatiron/blacksmith/)
 * [Blode](https://github.com/stackoverflow/blode)
 * [bread](https://github.com/pvorb/node-bread)
+* [Broccoli Taco](http://broccoli-taco.com/)
 * [Brunch](http://brunch.io/)
 * [Cabin](http://www.cabinjs.com/)
 * [Codex](https://github.com/logicalparadox/codex)
