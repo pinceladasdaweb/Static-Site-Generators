@@ -201,6 +201,7 @@ Table of Contents
 * [Statix](https://github.com/ff0000/statix)
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [Techy](http://krasimir.github.io/techy/)
+* [thumbsup](https://github.com/rprieto/thumbsup)
 * [volo](http://volojs.org/)
 * [wainwright](https://github.com/wprl/wainwright)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
