@@ -7,6 +7,7 @@ Table of Contents
 -----------------
 
 * [.NET](#net)
+* [Awk](#awk)
 * [Bash](#bash)
 * [C++](#c)
 * [C#](#c-sharp)
@@ -33,6 +34,10 @@ Table of Contents
 ## .NET
 
 * [Pretzel](https://github.com/Code52/pretzel)
+
+## Awk
+
+* [zodiac](https://github.com/nuex/zodiac)
 
 ## Bash
 
