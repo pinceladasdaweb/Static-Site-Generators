@@ -6,6 +6,7 @@ A definitive list of tools for generating static websites.
 Table of Contents
 -----------------
 
+* [.NET](#.net)
 * [Bash](#bash)
 * [C++](#c)
 * [C#](#c-sharp)
@@ -28,6 +29,10 @@ Table of Contents
 * [Shell](#shell)
 * [Racket](#racket)
 * [Ruby](#ruby)
+
+## .NET
+
+* [Pretzel](https://github.com/Code52/pretzel)
 
 ## Bash
 
