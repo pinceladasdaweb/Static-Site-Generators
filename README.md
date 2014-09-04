@@ -285,6 +285,7 @@ Table of Contents
 * [Syte](https://github.com/rigoneri/syte)
 * [Tags](http://tags.brace.io/)
 * [tahchee](https://github.com/sebastien/tahchee)
+* [Tinkerer](http://tinkerer.me/)
 * [Voldemort](https://github.com/semk/voldemort)
 * [Volt](https://github.com/bow/volt/)
 * [Webber](http://gitorious.org/webber)
