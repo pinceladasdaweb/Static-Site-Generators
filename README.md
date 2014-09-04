@@ -266,6 +266,7 @@ Table of Contents
 * [Frozen-Flask](http://pythonhosted.org/Frozen-Flask/)
 * [Glynn](https://github.com/teiko/glynn)
 * [growl](https://github.com/xfire/growl/)
+* [Halwa](https://github.com/mhlakhani/halwa)
 * [handcrank](https://pypi.python.org/pypi/handcrank)
 * [Hyde](https://github.com/lakshmivyas/hyde)
 * [Igor](https://github.com/aconbere/igor)
