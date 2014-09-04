@@ -120,6 +120,7 @@ Table of Contents
 
 * [FMPP](http://fmpp.sourceforge.net/)
 * [JBake](http://jbake.org/)
+* [StaGen](https://github.com/wiztools/stagen)
 
 ## Language Agnostic
 
