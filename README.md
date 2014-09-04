@@ -6,7 +6,7 @@ A definitive list of tools for generating static websites.
 Table of Contents
 -----------------
 
-* [.NET](#.net)
+* [.NET](#net)
 * [Bash](#bash)
 * [C++](#c)
 * [C#](#c-sharp)
@@ -283,6 +283,7 @@ Table of Contents
 * [staticjinja](https://github.com/Ceasar/staticjinja)
 * [StrangeCase](https://github.com/colinta/StrangeCase)
 * [Syte](https://github.com/rigoneri/syte)
+* [Tags](http://tags.brace.io/)
 * [tahchee](https://github.com/sebastien/tahchee)
 * [Voldemort](https://github.com/semk/voldemort)
 * [Volt](https://github.com/bow/volt/)
