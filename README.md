@@ -216,6 +216,7 @@ Table of Contents
 ## PHP
 
 * [Animal](https://github.com/billpatrianakos/animal-f)
+* [Carew](http://carew.github.io/)
 * [Gumdrop](http://gumdropapp.com/)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
