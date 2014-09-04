@@ -286,6 +286,7 @@ Table of Contents
 * [PILCROW](http://inky.github.io/pilcrow/)
 * [Poole](https://bitbucket.org/obensonne/poole)
 * [PyBlosxom](http://pyblosxom.github.io/)
+* [PyKwiki](http://pykwiki.nullism.com/)
 * [Pyll](https://github.com/arthurk/pyll)
 * [rstblog](https://github.com/mitsuhiko/rstblog)
 * [Serious Chicken](http://rtorr.github.io/serious-chicken/)
