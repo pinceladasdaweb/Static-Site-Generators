@@ -20,6 +20,7 @@ Table of Contents
 * [Haskell](#haskell)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
+* [Lua](#lua)
 * [Nimrod](#nimrod)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
@@ -130,6 +131,10 @@ Table of Contents
 * [Site builder console](http://sitebuilder.codeplex.com/)
 * [StaticMate](https://staticmate.com/)
 * [vimwiki](https://github.com/vim-scripts/vimwiki)
+
+## Lua
+
+* [Luapress](https://github.com/Fizzadar/Luapress)
 
 ## Nimrod
 
