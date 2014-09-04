@@ -154,6 +154,7 @@ Table of Contents
 * [Equiprose](https://github.com/thibaultCha/Equiprose)
 * [Gabby](https://github.com/alexmingoia/gabby)
 * [Genesis](http://forge.synthmedia.co.uk/genesis/)
+* [Go-Static!](https://github.com/colynb/generator-go-static)
 * [Grunt](http://gruntjs.com/)
 * [GruntStart](http://tsvensen.github.io/GruntStart/)
 * [grunt-bear](https://github.com/tvooo/grunt-bear)
