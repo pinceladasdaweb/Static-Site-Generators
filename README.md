@@ -257,6 +257,7 @@ Table of Contents
 * [Mako](http://www.makotemplates.org/)
 * [Markbox](https://github.com/myfreeweb/markbox)
 * [Markdoc](http://markdoc.org/)
+* [MkDocs](http://www.mkdocs.org/)
 * [mynt](http://mynt.mirroredwhite.com/)
 * [Nib](https://github.com/jreese/nib)
 * [Nikola](http://nikola.ralsina.com.ar/)
