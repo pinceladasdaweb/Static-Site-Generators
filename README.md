@@ -201,6 +201,7 @@ Table of Contents
 * [Qabex](https://github.com/shanewholloway/node-qssg)
 * [Quill](https://npmjs.org/package/quill)
 * [romulus](https://github.com/felixge/node-romulus)
+* [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
 * [Scotch](https://github.com/techwraith/scotch)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
