@@ -206,6 +206,7 @@ Table of Contents
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
 * [Scotch](https://github.com/techwraith/scotch)
+* [Situs](https://github.com/fians/situs)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
 * [Static Site Starter Kit](https://github.com/kriasoft/static-site-starter)
 * [Statix](https://github.com/ff0000/statix)
