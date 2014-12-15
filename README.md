@@ -284,6 +284,7 @@ Table of Contents
 * [Letterpress](https://github.com/an0/Letterpress)
 * [Lightning](https://github.com/borismus/lightning)
 * [lilac](https://lilac.readthedocs.org/en/latest/index.html)
+* [Logya](https://github.com/yaph/logya)
 * [Mako](http://www.makotemplates.org/)
 * [Markbox](https://github.com/myfreeweb/markbox)
 * [Markdoc](http://markdoc.org/)
