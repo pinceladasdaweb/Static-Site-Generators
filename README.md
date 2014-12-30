@@ -249,6 +249,7 @@ Table of Contents
 * [Stacey](https://github.com/kolber/stacey)
 * [Statamic](http://www.statamic.com/)
 * [Tempo](https://github.com/catnapgames/Tempo)
+* [Vaseman](http://about.asika.tw/vaseman/)
 * [Wadoo](https://github.com/alpacaaa/wadoo)
 
 ## Python
