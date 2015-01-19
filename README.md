@@ -203,6 +203,7 @@ Table of Contents
 * [Punch](https://github.com/laktek/punch)
 * [Qabex](https://github.com/shanewholloway/node-qssg)
 * [Quill](https://npmjs.org/package/quill)
+* [React Static Site](https://github.com/BradDenver/react-static-site)
 * [romulus](https://github.com/felixge/node-romulus)
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
