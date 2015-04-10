@@ -234,6 +234,7 @@ Table of Contents
 ## PHP
 
 * [Animal](https://github.com/billpatrianakos/animal-f)
+* [BloggerCMS](https://github.com/sarfraznawaz2005/BloggerCMS)
 * [Carew](http://carew.github.io/)
 * [Dropplets](https://github.com/Circa75/dropplets)
 * [Gumdrop](http://gumdropapp.com/)
