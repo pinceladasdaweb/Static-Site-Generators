@@ -345,6 +345,7 @@ Table of Contents
 * [Magneto](https://github.com/donmelton/magneto)
 * [Massimo](https://github.com/petebrowne/massimo)
 * [Middleman](http://middlemanapp.com/)
+* [Moka](https://github.com/lucaong/Moka)
 * [Nanoc](http://nanoc.ws/)
 * [NestaCMS](http://nestacms.com/)
 * [Octopress](http://octopress.org/)
