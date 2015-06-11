@@ -204,6 +204,7 @@ Table of Contents
 * [Qabex](https://github.com/shanewholloway/node-qssg)
 * [Quill](https://npmjs.org/package/quill)
 * [React Static Site](https://github.com/BradDenver/react-static-site)
+* [React + Webpack](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
 * [romulus](https://github.com/felixge/node-romulus)
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
