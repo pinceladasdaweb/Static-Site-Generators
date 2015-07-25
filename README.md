@@ -75,6 +75,8 @@ Table of Contents
 
 ## Clojure
 
+* [Cryogen](http://cryogenweb.org/)
+* [incise](http://www.ryanmcg.com/incise/)
 * [misaki](https://github.com/liquidz/misaki)
 * [Static](http://nakkaya.com/static.html)
 
