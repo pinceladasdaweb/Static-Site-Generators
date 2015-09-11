@@ -36,6 +36,7 @@ Table of Contents
 ## .NET
 
 * [Pretzel](https://github.com/Code52/pretzel)
+* [Wyam](http://wyam.io)
 
 ## Awk
 
