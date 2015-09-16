@@ -148,6 +148,7 @@ Table of Contents
 
 ## Node.js
 
+* [antwar](https://github.com/antwarjs/antwar)
 * [Apto](https://github.com/modparadigm/apto)
 * [Assemble](http://assemble.io)
 * [Automaton](http://indigounited.com/automaton/)
