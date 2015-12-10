@@ -390,6 +390,7 @@ Table of Contents
 
 ## Shell
 
+* [Exposé](https://github.com/Jack000/Expose)
 * [fugitive](https://gitorious.org/fugitive)
 * [simple-static](https://github.com/wlangstroth/simple-static)
 * [sw](https://github.com/jroimartin/sw)
