@@ -294,6 +294,7 @@ Table of Contents
 * [Igor](https://github.com/aconbere/igor)
 * [Jinja](http://jinja.pocoo.org/)
 * [jinjet](https://github.com/jokull/jinjet)
+* [Lektor](https://www.getlektor.com/)
 * [Letterpress](https://github.com/an0/Letterpress)
 * [Lightning](https://github.com/borismus/lightning)
 * [lilac](https://lilac.readthedocs.org/en/latest/index.html)
