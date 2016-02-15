@@ -159,6 +159,7 @@ Table of Contents
 * [Broccoli Taco](http://broccoli-taco.com/)
 * [Brunch](http://brunch.io/)
 * [Cabin](http://www.cabinjs.com/)
+* [CMS.js](https://github.com/cdmedia/cms.js)
 * [Codex](https://github.com/logicalparadox/codex)
 * [Conf-Boilerplate](https://github.com/braziljs/conf-boilerplate) (For Conference and Events)
 * [Derby](http://derbyjs.com/)
