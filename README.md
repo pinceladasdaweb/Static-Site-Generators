@@ -245,6 +245,7 @@ Table of Contents
 * [Animal](https://github.com/billpatrianakos/animal-f)
 * [BloggerCMS](https://github.com/sarfraznawaz2005/BloggerCMS)
 * [Carew](http://carew.github.io/)
+* [Couscous](http://couscous.io/)
 * [Dropplets](https://github.com/Circa75/dropplets)
 * [Grav](http://getgrav.org/)
 * [Gumdrop](http://gumdropapp.com/)
