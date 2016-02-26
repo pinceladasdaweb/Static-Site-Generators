@@ -247,6 +247,7 @@ Table of Contents
 * [Carew](http://carew.github.io/)
 * [Couscous](http://couscous.io/)
 * [Dropplets](https://github.com/Circa75/dropplets)
+* [Fansoro](http://fansoro.org/)
 * [Grav](http://getgrav.org/)
 * [Gumdrop](http://gumdropapp.com/)
 * [Phrozn](http://www.phrozn.info/en/)
