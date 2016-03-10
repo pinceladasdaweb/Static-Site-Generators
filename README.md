@@ -15,6 +15,7 @@ Table of Contents
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
 * [Dropbox](#dropbox)
+* [Elixir](#elixir)
 * [Go](#go)
 * [Groovy](#groovy)
 * [Haskell](#haskell)
@@ -103,6 +104,10 @@ Table of Contents
 * [Sitebox.io](http://www.sitebox.io/)
 * [Telegram](https://telegr.am/)
 * [Yoozon](https://yoozon.com/)
+
+## Elixir
+
+* [Obelisk](https://github.com/BennyHallett/obelisk)
 
 ## Go
 
