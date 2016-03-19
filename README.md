@@ -169,6 +169,7 @@ Table of Contents
 * [Conf-Boilerplate](https://github.com/braziljs/conf-boilerplate) (For Conference and Events)
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
+* [Easystatic](https://github.com/easystatic/easystatic)
 * [Enfield](https://github.com/fortes/enfield)
 * [Equiprose](https://github.com/thibaultCha/Equiprose)
 * [Gabby](https://github.com/alexmingoia/gabby)
