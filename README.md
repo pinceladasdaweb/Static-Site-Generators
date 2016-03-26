@@ -16,6 +16,7 @@ Table of Contents
 * [Common Lisp](#common-lisp)
 * [Dropbox](#dropbox)
 * [Elixir](#elixir)
+* [Erlang](#erlang)
 * [Go](#go)
 * [Groovy](#groovy)
 * [Haskell](#haskell)
@@ -108,6 +109,10 @@ Table of Contents
 ## Elixir
 
 * [Obelisk](https://github.com/BennyHallett/obelisk)
+
+## Erlang
+
+* [LambdaPad](https://github.com/gar1t/lambdapad)
 
 ## Go
 
