@@ -50,6 +50,7 @@ Table of Contents
 * [NanoBlogger](http://nanoblogger.sourceforge.net/)
 * [Pagegen](http://pagegen.phnd.net/)
 * [SKF](http://skf.jeannedhack.org/)
+* [baker](https://github.com/taylorchu/baker)
 
 ## C++
 
