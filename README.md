@@ -220,6 +220,7 @@ Table of Contents
 * [Propeller](https://github.com/thegreatsunra/propeller)
 * [Punch](https://github.com/laktek/punch)
 * [Qabex](https://github.com/shanewholloway/node-qssg)
+* [Quick Start Guide Template](https://github.com/tjvantoll/quick-start-template)
 * [Quill](https://npmjs.org/package/quill)
 * [React Static Site](https://github.com/BradDenver/react-static-site)
 * [React + Webpack](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
