@@ -46,6 +46,7 @@ Table of Contents
 
 ## Bash
 
+* [baker](https://github.com/taylorchu/baker/)
 * [bashblog](https://github.com/carlesfe/bashblog)
 * [NanoBlogger](http://nanoblogger.sourceforge.net/)
 * [Pagegen](http://pagegen.phnd.net/)
