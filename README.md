@@ -216,6 +216,7 @@ Table of Contents
 * [Nog](https://github.com/c9/nog)
 * [pagen](https://github.com/jawerty/pagen)
 * [Petrify](https://github.com/caolan/petrify)
+* [Phenomic](https://phenomic.io/)
 * [Poet](http://jsantell.github.io/poet/)
 * [Pop](https://github.com/alexyoung/pop)
 * [Propeller](https://github.com/thegreatsunra/propeller)
