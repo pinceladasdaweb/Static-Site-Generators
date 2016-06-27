@@ -234,6 +234,7 @@ Table of Contents
 * [Situs](https://github.com/fians/situs)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
 * [Static Site Starter Kit](https://github.com/kriasoft/static-site-starter)
+* [statil](https://github.com/Mitranim/statil)
 * [Statix](https://github.com/ff0000/statix)
 * [SuSi](https://github.com/AVGP/susi)
 * [Szyslak](https://github.com/ido50/Szyslak)
