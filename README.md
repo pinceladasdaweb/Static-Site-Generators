@@ -164,6 +164,7 @@ Table of Contents
 * [Assemble](http://assemble.io)
 * [Automaton](http://indigounited.com/automaton/)
 * [BAM](https://npmjs.org/package/bam)
+* [Bi Sheng](https://github.com/benjycui/bisheng)
 * [blacksmith](https://github.com/flatiron/blacksmith/)
 * [Blode](https://github.com/stackoverflow/blode)
 * [bread](https://github.com/pvorb/node-bread)
