@@ -234,6 +234,7 @@ Table of Contents
 * [Scotch](https://github.com/techwraith/scotch)
 * [Situs](https://github.com/fians/situs)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
+* [Staticman](https://staticman.net/)
 * [Static Site Starter Kit](https://github.com/kriasoft/static-site-starter)
 * [statil](https://github.com/Mitranim/statil)
 * [Statix](https://github.com/ff0000/statix)
