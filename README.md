@@ -30,6 +30,7 @@ Table of Contents
 * [Python](#python)
 * [Racket](#racket)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Shell](#shell)
@@ -401,6 +402,9 @@ Table of Contents
 * [Yurt CMS](http://yurtcms.roberthahn.ca/)
 * [zenweb](http://www.zenspider.com/projects/zenweb.html)
 * [{ :awestruct }](http://awestruct.org/)
+
+## Rust
+* [cobalt.rs](https://github.com/cobalt-org/cobalt.rs)
 
 ## Scala
 * [monkeyman](https://github.com/wspringer/monkeyman)
