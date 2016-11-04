@@ -181,6 +181,7 @@ Table of Contents
 * [Enfield](https://github.com/fortes/enfield)
 * [Equiprose](https://github.com/thibaultCha/Equiprose)
 * [Gabby](https://github.com/alexmingoia/gabby)
+* [Gatsby](https://github.com/gatsbyjs/gatsby)
 * [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp)
 * [Genesis](http://forge.synthmedia.co.uk/genesis/)
 * [ghost-render](https://github.com/mixu/ghost-render)
