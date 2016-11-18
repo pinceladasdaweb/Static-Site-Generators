@@ -285,6 +285,7 @@ Table of Contents
 * [Spress](https://github.com/yosymfony/Spress)
 * [Stacey](https://github.com/kolber/stacey)
 * [Statamic](http://www.statamic.com/)
+* [Static](https://github.com/juy/static)
 * [Tempo](https://github.com/catnapgames/Tempo)
 * [Vaseman](http://about.asika.tw/vaseman/)
 * [Yellow](http://github.com/datenstrom/yellow)
