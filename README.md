@@ -232,6 +232,7 @@ Table of Contents
 * [React Static Site](https://github.com/BradDenver/react-static-site)
 * [React Static Site Webpack plugin](https://github.com/pierresaux/react-static-site-webpack-plugin)
 * [React + Webpack](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
+* [Reptar](http://reptar.github.io/)
 * [romulus](https://github.com/felixge/node-romulus)
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
