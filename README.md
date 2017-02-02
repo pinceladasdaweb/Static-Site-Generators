@@ -274,6 +274,7 @@ Table of Contents
 * [Fansoro](http://fansoro.org/)
 * [Grav](http://getgrav.org/)
 * [Gumdrop](http://gumdropapp.com/)
+* [PHPoole](http://phpoole.org/)
 * [Phrozn](http://www.phrozn.info/en/)
 * [PieCrust](http://bolt80.com/piecrust/)
 * [Purepress](https://github.com/megakote/purepress)
