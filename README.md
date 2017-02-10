@@ -185,6 +185,7 @@ Table of Contents
 * [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp)
 * [Genesis](http://forge.synthmedia.co.uk/genesis/)
 * [ghost-render](https://github.com/mixu/ghost-render)
+* [GloriaJS](https://gloriajs.com/)
 * [Go-Static!](https://github.com/colynb/generator-go-static)
 * [Grunt](http://gruntjs.com/)
 * [GruntStart](http://tsvensen.github.io/GruntStart/)
