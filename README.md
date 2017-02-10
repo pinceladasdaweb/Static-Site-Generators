@@ -168,6 +168,7 @@ Table of Contents
 * [Bi Sheng](https://github.com/benjycui/bisheng)
 * [blacksmith](https://github.com/flatiron/blacksmith/)
 * [Blode](https://github.com/stackoverflow/blode)
+* [Bloguizim](https://github.com/bloguizim/bloguizim)
 * [bread](https://github.com/pvorb/node-bread)
 * [Broccoli Taco](http://broccoli-taco.com/)
 * [Brunch](http://brunch.io/)
