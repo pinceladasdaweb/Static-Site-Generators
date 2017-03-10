@@ -427,6 +427,7 @@ Table of Contents
 
 * [Exposé](https://github.com/Jack000/Expose)
 * [fugitive](https://gitorious.org/fugitive)
+* [rawk](https://github.com/kisom/rawk)
 * [simple-static](https://github.com/wlangstroth/simple-static)
 * [sw](https://github.com/jroimartin/sw)
 * [Utterson](https://github.com/stef/utterson)
