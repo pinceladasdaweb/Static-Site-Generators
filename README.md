@@ -232,6 +232,7 @@ Table of Contents
 * [Qabex](https://github.com/shanewholloway/node-qssg)
 * [Quick Start Guide Template](https://github.com/tjvantoll/quick-start-template)
 * [Quill](https://npmjs.org/package/quill)
+* [React Static](https://github.com/nozzle/react-static)
 * [React Static Site](https://github.com/BradDenver/react-static-site)
 * [React Static Site Webpack plugin](https://github.com/pierresaux/react-static-site-webpack-plugin)
 * [React + Webpack](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
@@ -261,6 +262,7 @@ Table of Contents
 * [Woods](https://github.com/studiomoniker/woods)
 * [yassg](https://npmjs.org/package/yassg)
 * [Yeoman](http://yeoman.io/)
+* [yohe](https://github.com/laoqiren/yohe)
 
 ## OCaml
 
