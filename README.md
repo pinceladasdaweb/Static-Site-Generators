@@ -254,6 +254,7 @@ Table of Contents
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [Techy](http://krasimir.github.io/techy/)
 * [thumbsup](https://github.com/rprieto/thumbsup)
+* [VuePress](https://vuepress.vuejs.org/)
 * [volo](http://volojs.org/)
 * [wainwright](https://github.com/wprl/wainwright)
 * [Wanna](https://github.com/shaoshuai0102/wanna)
