@@ -70,6 +70,7 @@ Table of Contents
 * [HiD](https://metacpan.org/pod/HiD)
 * [ikiwiki](https://ikiwiki.info/)
 * [Papery](https://metacpan.org/pod/Papery)
+* [Qgoda](http://www.qgoda.net/)
 * [Quietly::Confident](http://search.cpan.org/dist/Quietly-Confident/qc.pod)
 * [StaticVolt](https://metacpan.org/pod/StaticVolt)
 * [Statocles](https://metacpan.org/pod/Statocles)
