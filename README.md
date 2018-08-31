@@ -244,6 +244,7 @@ Table of Contents
 * [Surge](https://surge.sh/)
 * [Schiumato](https://gitlab.com/ElenQ/schiumato)
 * [Scotch](https://github.com/techwraith/scotch)
+* [Simple](https://github.com/isnowfy/simple)
 * [Situs](https://github.com/fians/situs)
 * [squareboy](https://github.com/harsha-mudi/squareboy)
 * [Staticman](https://staticman.net/)
