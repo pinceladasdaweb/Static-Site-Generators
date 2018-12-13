@@ -14,6 +14,7 @@ Table of Contents
 * [C and Perl](#c-and-perl)
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
+* [D](#d)
 * [Dropbox](#dropbox)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -90,6 +91,10 @@ Table of Contents
 
 * [coleslaw](http://www.cliki.net/coleslaw)
 * [regenerate](https://gist.github.com/TeMPOraL/4190622)
+
+## D
+
+* [DSSG](https://github.com/kambrium/dssg)
 
 ## Dropbox
 
