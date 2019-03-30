@@ -182,6 +182,7 @@ Table of Contents
 * [CMS.js](https://github.com/cdmedia/cms.js)
 * [Codex](https://github.com/logicalparadox/codex)
 * [Conf-Boilerplate](https://github.com/braziljs/conf-boilerplate) (For Conference and Events)
+* [Cuttlebelle](https://github.com/cuttlebelle/cuttlebelle)
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
 * [Easystatic](https://github.com/easystatic/easystatic)
