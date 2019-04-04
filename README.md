@@ -68,6 +68,7 @@ Table of Contents
 * [blosxom](http://blosxom.sourceforge.net/documentation/users/configure/static.html)
 * [Bryar](https://metacpan.org/pod/Bryar::Frontend::Static)
 * [Dapper](http://vanilladraft.com/dapper/)
+* [Expose](https://github.com/Jack000/Expose)
 * [HiD](https://metacpan.org/pod/HiD)
 * [ikiwiki](https://ikiwiki.info/)
 * [Papery](https://metacpan.org/pod/Papery)
