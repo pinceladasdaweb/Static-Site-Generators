@@ -223,6 +223,7 @@ Table of Contents
 * [Mimosa](http://mimosajs.com/)
 * [modan](https://github.com/r7kamura/modan)
 * [Modjs](http://modulejs.github.io/modjs/)
+* [Next.js](https://github.com/zeit/next.js)
 * [Nirman](https://github.com/anupshinde/nirman)
 * [Nico](http://lab.lepture.com/nico/)
 * [node-blog](https://github.com/creationix/node-blog)
