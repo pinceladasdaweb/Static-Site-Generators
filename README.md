@@ -432,6 +432,7 @@ Table of Contents
 
 ## Rust
 * [cobalt.rs](https://github.com/cobalt-org/cobalt.rs)
+* [zola](https://github.com/getzola/zola)
 
 ## Scala
 * [monkeyman](https://github.com/wspringer/monkeyman)
