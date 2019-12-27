@@ -214,6 +214,7 @@ Table of Contents
 * [Jott](https://github.com/jonsherrard/jott)
 * [Kel](https://github.com/koostudios/kel)
 * [Kerouac](https://github.com/jaredhanson/kerouac)
+* [Lego](https://github.com/astronomersiva/lego)
 * [Lineman](https://github.com/testdouble/lineman)
 * [Lingon](https://github.com/jpettersson/lingon)
 * [Lumbar](https://github.com/walmartlabs/lumbar)
