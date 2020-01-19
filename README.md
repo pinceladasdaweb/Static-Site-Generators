@@ -252,6 +252,7 @@ Table of Contents
 * [romulus](https://github.com/felixge/node-romulus)
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
+* [Scully](https://github.com/scullyio/scully)
 * [Surge](https://surge.sh/)
 * [Schiumato](https://gitlab.com/ElenQ/schiumato)
 * [Scotch](https://github.com/techwraith/scotch)
