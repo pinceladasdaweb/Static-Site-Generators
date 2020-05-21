@@ -15,6 +15,7 @@ Table of Contents
 * [Clojure](#clojure)
 * [Common Lisp](#common-lisp)
 * [D](#d)
+* [Deno](#deno)
 * [Dropbox](#dropbox)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -96,6 +97,10 @@ Table of Contents
 ## D
 
 * [DSSG](https://github.com/kambrium/dssg)
+
+## Deno
+
+* [Pagic](https://github.com/xcatliu/pagic)
 
 ## Dropbox
 
