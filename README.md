@@ -365,6 +365,7 @@ Table of Contents
 * [Pelican](https://github.com/getpelican/pelican/)
 * [PILCROW](http://inky.github.io/pilcrow/)
 * [Poole](https://bitbucket.org/obensonne/poole)
+* [Prosopopee](https://github.com/Psycojoker/prosopopee)
 * [PyBlosxom](http://pyblosxom.github.io/)
 * [PyKwiki](http://pykwiki.nullism.com/)
 * [Pyll](https://github.com/arthurk/pyll)
