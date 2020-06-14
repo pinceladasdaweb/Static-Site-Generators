@@ -343,6 +343,7 @@ Table of Contents
 * [Fragments](http://glyphobet.github.io/fragments/)
 * [Frozen-Flask](http://pythonhosted.org/Frozen-Flask/)
 * [Glynn](https://github.com/teiko/glynn)
+* [gnrt](https://github.com/jfhovinne/gnrt)
 * [growl](https://github.com/xfire/growl/)
 * [Halwa](https://github.com/mhlakhani/halwa)
 * [handcrank](https://pypi.python.org/pypi/handcrank)
