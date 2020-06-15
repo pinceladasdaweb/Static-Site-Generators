@@ -123,6 +123,7 @@ Table of Contents
 ## Elixir
 
 * [Obelisk](https://github.com/BennyHallett/obelisk)
+* [Serum](https://github.com/Dalgona/Serum)
 
 ## Erlang
 
