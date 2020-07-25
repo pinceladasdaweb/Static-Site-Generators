@@ -173,7 +173,6 @@ Table of Contents
 
 ## Node.js
 
-* [11ty](https://www.11ty.io)
 * [antwar](https://github.com/antwarjs/antwar)
 * [Apto](https://github.com/modparadigm/apto)
 * [Assemble](http://assemble.io)
@@ -194,6 +193,7 @@ Table of Contents
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
 * [Easystatic](https://github.com/easystatic/easystatic)
+* [Eleventy](https://www.11ty.dev/)
 * [Enfield](https://github.com/fortes/enfield)
 * [Equiprose](https://github.com/thibaultCha/Equiprose)
 * [Gabby](https://github.com/alexmingoia/gabby)
