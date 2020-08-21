@@ -101,6 +101,7 @@ Table of Contents
 ## Deno
 
 * [Pagic](https://github.com/xcatliu/pagic)
+* [ssgo](https://ssgo.netlify.app/)
 
 ## Dropbox
 
