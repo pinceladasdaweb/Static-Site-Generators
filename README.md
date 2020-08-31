@@ -194,6 +194,7 @@ Table of Contents
 * [Derby](http://derbyjs.com/)
 * [DocPad](https://github.com/bevry/docpad)
 * [Easystatic](https://github.com/easystatic/easystatic)
+* [Elder.js](https://github.com/elderjs/elderjs)
 * [Eleventy](https://www.11ty.dev/)
 * [Enfield](https://github.com/fortes/enfield)
 * [Equiprose](https://github.com/thibaultCha/Equiprose)
