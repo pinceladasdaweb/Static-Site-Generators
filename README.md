@@ -87,6 +87,8 @@ Table of Contents
 * [Cryogen](http://cryogenweb.org/)
 * [incise](http://www.ryanmcg.com/incise/)
 * [misaki](https://github.com/liquidz/misaki)
+* [perun](https://github.com/hashobject/perun)
+* [Stasis](https://github.com/magnars/stasis)
 * [Static](http://nakkaya.com/static.html)
 
 ## Common Lisp
@@ -396,7 +398,9 @@ Table of Contents
 * [Wok](https://github.com/mythmon/wok)
 
 ## Racket
+
 * [Frog](https://github.com/greghendershott/frog)
+* [Pollen](https://github.com/mbutterick/pollen)
 
 ## Ruby
 
@@ -446,14 +450,18 @@ Table of Contents
 * [{ :awestruct }](http://awestruct.org/)
 
 ## Rust
+
 * [cobalt.rs](https://github.com/cobalt-org/cobalt.rs)
 * [zola](https://github.com/getzola/zola)
 
 ## Scala
+
 * [monkeyman](https://github.com/wspringer/monkeyman)
 * [Scalate](https://github.com/scalate/scalate)
 
 ## Scheme
+
+* [Haunt](https://github.com/guildhall/guile-haunt)
 * [Hyde](http://wiki.call-cc.org/eggref/4/hyde)
 
 ## Shell
