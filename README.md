@@ -457,6 +457,8 @@ Table of Contents
 ## Scala
 
 * [monkeyman](https://github.com/wspringer/monkeyman)
+* [Pamflet](https://github.com/foundweekends/pamflet)
+* [Paradox](https://github.com/lightbend/paradox)
 * [Scalate](https://github.com/scalate/scalate)
 
 ## Scheme
