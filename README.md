@@ -281,6 +281,7 @@ Table of Contents
 * [Szyslak](https://github.com/ido50/Szyslak)
 * [Techy](http://krasimir.github.io/techy/)
 * [thumbsup](https://github.com/rprieto/thumbsup)
+* [Trio](https://gettriossg.com/)
 * [UmiJS](https://umijs.org/)
 * [VuePress](https://vuepress.vuejs.org/)
 * [volo](http://volojs.org/)
