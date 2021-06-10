@@ -218,6 +218,7 @@ Table of Contents
 * [grunt-stencil](https://github.com/cambridge-healthcare/grunt-stencil)
 * [gulp-ssg](https://github.com/paulwib/gulp-ssg)
 * [Harmonic](https://github.com/es6rocks/harmonic)
+* [Harold](https://www.haroldjs.com/)
 * [Harp](http://harpjs.com)
 * [Heckle](http://macwright.org/heckle/)
 * [Hexo](https://github.com/tommy351/hexo)
