@@ -271,6 +271,7 @@ Table of Contents
 * [roots](http://roots.cx/)
 * [Rufio](https://github.com/wesleytodd/rufio)
 * [Scully](https://github.com/scullyio/scully)
+* [Sergey](https://sergey.cool/)
 * [Surge](https://surge.sh/)
 * [Schiumato](https://gitlab.com/ElenQ/schiumato)
 * [Scotch](https://github.com/techwraith/scotch)
