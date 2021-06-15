@@ -180,6 +180,7 @@ Table of Contents
 * [antwar](https://github.com/antwarjs/antwar)
 * [Apto](https://github.com/modparadigm/apto)
 * [Assemble](http://assemble.io)
+* [Astro](https://astro.build/)
 * [Automaton](http://indigounited.com/automaton/)
 * [BAM](https://npmjs.org/package/bam)
 * [Bi Sheng](https://github.com/benjycui/bisheng)
