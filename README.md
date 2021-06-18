@@ -23,6 +23,7 @@ Table of Contents
 * [Groovy](#groovy)
 * [Haskell](#haskell)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Language Agnostic](#language-agnostic)
 * [Lua](#lua)
 * [Nimrod](#nimrod)
@@ -157,6 +158,9 @@ Table of Contents
 * [FMPP](http://fmpp.sourceforge.net/)
 * [JBake](http://jbake.org/)
 * [StaGen](https://github.com/wiztools/stagen)
+
+## JavaScript
+* [sessg](https://github.com/pachacamac/sessg)
 
 ## Language Agnostic
 
