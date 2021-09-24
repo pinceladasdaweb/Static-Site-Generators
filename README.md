@@ -262,6 +262,7 @@ Table of Contents
 * [Poet](http://jsantell.github.io/poet/)
 * [Pop](https://github.com/alexyoung/pop)
 * [Propeller](https://github.com/thegreatsunra/propeller)
+* [PRPL](https://prpl.dev/)
 * [PRSS](https://github.com/hodgef/PRSS)
 * [Punch](https://github.com/laktek/punch)
 * [Qabex](https://github.com/shanewholloway/node-qssg)
