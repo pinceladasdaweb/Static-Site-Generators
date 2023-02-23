@@ -268,6 +268,7 @@ Table of Contents
 * [PRPL](https://prpl.dev/)
 * [PRSS](https://github.com/hodgef/PRSS)
 * [Punch](https://github.com/laktek/punch)
+* [Pure Liquid](https://pure-liquid-dev.netlify.app)
 * [Qabex](https://github.com/shanewholloway/node-qssg)
 * [Quick Start Guide Template](https://github.com/tjvantoll/quick-start-template)
 * [Quill](https://npmjs.org/package/quill)
