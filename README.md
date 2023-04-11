@@ -136,6 +136,7 @@ Table of Contents
 
 ## Go
 
+* [bearclaw](https://github.com/donuts-are-good/bearclaw)
 * [Caddy Server](https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server)
 * [gor](https://github.com/wendal/gor)
 * [gostatic](https://github.com/piranha/gostatic)
