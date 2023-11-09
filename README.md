@@ -281,6 +281,7 @@ Table of Contents
 * [Reptar](http://reptar.github.io/)
 * [romulus](https://github.com/felixge/node-romulus)
 * [roots](http://roots.cx/)
+* [Rspress](https://github.com/web-infra-dev/rspress)
 * [Rufio](https://github.com/wesleytodd/rufio)
 * [Scully](https://github.com/scullyio/scully)
 * [Sergey](https://sergey.cool/)
