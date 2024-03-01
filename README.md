@@ -474,6 +474,7 @@ Table of Contents
 
 * [cobalt.rs](https://github.com/cobalt-org/cobalt.rs)
 * [zola](https://github.com/getzola/zola)
+* [Adduce](https://adduce.vale.rocks)
 
 ## Scala
 
