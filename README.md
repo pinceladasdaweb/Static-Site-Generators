@@ -233,6 +233,7 @@ Table of Contents
 * [Hexo](https://github.com/tommy351/hexo)
 * [Hoodie](http://hood.ie/)
 * [îles](https://iles-docs.netlify.app)
+* [Inert](https://github.com/codemaster138/inert)
 * [jen](https://github.com/rfunduk/jen)
 * [Jekyde](http://zohooo.github.io/jekyde/)
 * [Jott](https://github.com/jonsherrard/jott)
