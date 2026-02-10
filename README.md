@@ -37,6 +37,7 @@ Table of Contents
 * [Scala](#scala)
 * [Scheme](#scheme)
 * [Shell](#shell)
+* [Swift](#swift)
 * [Tcl](#tcl)
 
 ## .NET
@@ -499,6 +500,10 @@ Table of Contents
 * [Utterson](https://github.com/stef/utterson)
 * [Vee](http://www.0x743.com/vee/)
 * [werc](http://werc.cat-v.org/)
+
+## Swift
+
+* [Saga](https://github.com/loopwerk/saga)
 
 ## Tcl
 
